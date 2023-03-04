@@ -1,1 +1,1 @@
-Desktop app for tracking the workout progress
+Desktop app for tracking the workout progresssdafdsfds
